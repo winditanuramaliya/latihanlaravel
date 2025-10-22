@@ -1,2 +1,2 @@
-# latihan_laravel
+# latihanlaravel
 latihan laravel untuk mata kuliah workshop terintegrasi
